@@ -1,2 +1,2 @@
 # .github
-Lottery
+AarynLu's organization.
